@@ -1,4 +1,4 @@
-# python_novel_wordcount
+# Python Novel Word Count
 
 ## A word count activity of seven of Louisa May Alcott's novels using Python
 
