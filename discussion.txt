@@ -1,12 +1,12 @@
-You can find the output part of the python code posted separately. If you skim through those 7 lists down below, I believe
-you will immediately think the same as me: "Wait, these are not all same lists. This word counting seems to say something
-about Louisa's writings!"
+You can find the output of the python codes posted separately. If you skim through those 7 lists down below, I believe you
+will immediately think the same as me: "Wait, these are not all same lists. This word counting seems to say something about
+Louisa's writings!"
 
-Despite being very common prepositions and articles, AND, THE, TO, A, OF are the top 5 frequently used words in 6 out of our
-7 novels. The one exceptional novel, <Behind a Mask; Or a Woman's Power> still has those five in its top 6 along with the word
-I which appears in all of our seven lists. Although we do not know about the viewpoint of each novels, she likes to tell the
-narrator's stories by saying "I" a plenty of times. Again, I is found in all of the 7 novels; IN, in 6 of them; HER, in 5; WAS,
-in 4; FOR, in 3; SHE and AS, in 2; and HE, HIS, MY, THAT, YOU, and WITH, in 1.
+Despite being very common prepositions and articles, AND, THE, TO, A, OF are consistently the top 5 frequently used words in
+6 out of our 7 novels. The one exceptional novel, <Behind a Mask; Or a Woman's Power> still has those five in its top 6 along
+with the word I which appears in all of our seven lists. Although we do not know about the viewpoint of each novels, she likes
+to tell the narrator's stories by saying "I" a plenty of times. Again, I is found in all of the 7 novels; IN, in 6 of them;
+HER, in 5; WAS, in 4; FOR, in 3; SHE and AS, in 2; and HE, HIS, MY, THAT, YOU, and WITH, in 1.
 
 One interesting aspect I notice here is HER appears 5 out of 7, SHE appears twice. On the other hand, HE and HIS appear only
 once, in <Behind a Mask; Or a Woman's Power> and <Jo's Boys>, respectively. Louisa used Feminine pronous way more busily than
