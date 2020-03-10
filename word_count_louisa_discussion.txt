@@ -1,0 +1,203 @@
+## word_count_louisa.ipynb
+
+You can find the output of the python codes posted separately. If you skim through those 7 lists down below, I believe you
+will immediately think the same as me: "Wait, these are not all same lists.
+
+Despite being very common prepositions and articles, AND, THE, TO, A, OF are consistently the top 5 frequently used words in
+6 out of our 7 novels. The one exceptional novel, <Behind a Mask; Or a Woman's Power> still has those five in its top 6 along
+with the word I which appears in all of our seven lists. Although we do not know about the viewpoint of each novels, she likes
+to tell the narrator's stories by saying "I" a plenty of times. Again, I is found in all of the 7 novels; IN, in 6 of them;
+HER, in 5; WAS, in 4; FOR, in 3; SHE and AS, in 2; and HE, HIS, MY, THAT, YOU, and WITH, in 1.
+
+One interesting aspect I notice here, though, is HER appears 5 out of 7, SHE appears twice. On the other hand, HE and HIS appear
+only once, in <Behind a Mask; Or a Woman's Power> and <Jo's Boys>, respectively. Louisa used Feminine pronouns way more busily
+than masculine ones, which may indicate her special interest in describing the female characters in her works.
+
+Little Women:  and 7807
+Little Women:  the 7098
+Little Women:  to 4975
+Little Women:  a 4283
+Little Women:  of 3331
+Little Women:  her 2832
+Little Women:  I 2663
+Little Women:  in 2313
+Little Women:  for 2113
+Little Women:  was 1975
+Jo's Boys:  and 4412
+Jo's Boys:  the 4334
+Jo's Boys:  to 2713
+Jo's Boys:  a 2326
+Jo's Boys:  of 2091
+Jo's Boys:  in 1353
+Jo's Boys:  for 1146
+Jo's Boys:  was 1126
+Jo's Boys:  his 1079
+Jo's Boys:  I 1077
+Eight Cousins:  the 2968
+Eight Cousins:  and 2802
+Eight Cousins:  to 1946
+Eight Cousins:  a 1898
+Eight Cousins:  of 1366
+Eight Cousins:  I 1014
+Eight Cousins:  her 980
+Eight Cousins:  in 936
+Eight Cousins:  she 834
+Eight Cousins:  was 798
+Rose in Blooms:  the 3466
+Rose in Blooms:  and 3249
+Rose in Blooms:  to 2616
+Rose in Blooms:  a 2153
+Rose in Blooms:  of 1819
+Rose in Blooms:  I 1502
+Rose in Blooms:  as 1236
+Rose in Blooms:  for 1232
+Rose in Blooms:  her 1224
+Rose in Blooms:  in 1190
+Hospital Sketches:  the 1479
+Hospital Sketches:  and 1047
+Hospital Sketches:  of 852
+Hospital Sketches:  a 809
+Hospital Sketches:  to 728
+Hospital Sketches:  I 607
+Hospital Sketches:  in 420
+Hospital Sketches:  was 315
+Hospital Sketches:  with 310
+Hospital Sketches:  my 301
+Behind a Mask; Or a Woman's Power:  the 1449
+Behind a Mask; Or a Woman's Power:  and 1403
+Behind a Mask; Or a Woman's Power:  to 1096
+Behind a Mask; Or a Woman's Power:  a 793
+Behind a Mask; Or a Woman's Power:  I 787
+Behind a Mask; Or a Woman's Power:  of 725
+Behind a Mask; Or a Woman's Power:  her 642
+Behind a Mask; Or a Woman's Power:  she 511
+Behind a Mask; Or a Woman's Power:  you 479
+Behind a Mask; Or a Woman's Power:  he 458
+Moods:  the 3808
+Moods:  and 3201
+Moods:  to 2206
+Moods:  of 1909
+Moods:  a 1858
+Moods:  I 1338
+Moods:  her 1252
+Moods:  that 1011
+Moods:  in 1004
+Moods:  as 948
+
+## word_count_louisa_continued.ipynb
+
+Based on the top word lists from 6 novels by Jane Austen and 1 by Emily Bronte, now I can tell that those words were not
+from Louisa's personal preference but most frequently used words in English language in general.
+
+As a beginner to Python, now I see why there is a strategy of excluding "stopwords" using methods like nltk package. I might
+start another task now only regarding words after removing stop words including the words that I just found most frequently
+used such as AND, THE, TO, A, and OF. Then there may be more interesting findings.
+
+However, personally, I found encountering those "stopwords" repeatedly on top of the lists I made pretty fun. We just never
+notice we use those words so often in our writings and conversations!
+
+pride and prejudice:  to 4051
+pride and prejudice:  the 4047
+pride and prejudice:  of 3554
+pride and prejudice:  and 3240
+pride and prejudice:  a 1888
+pride and prejudice:  her 1856
+pride and prejudice:  was 1794
+pride and prejudice:  in 1759
+pride and prejudice:  I 1725
+pride and prejudice:  that 1405
+pride and prejudice:  not 1337
+pride and prejudice:  she 1303
+pride and prejudice:  be 1191
+pride and prejudice:  his 1166
+pride and prejudice:  had 1125
+emma:  to 5038
+emma:  the 4802
+emma:  and 4241
+emma:  of 4185
+emma:  a 2949
+emma:  I 2547
+emma:  was 2296
+emma:  in 2029
+emma:  not 2007
+emma:  her 1913
+emma:  be 1875
+emma:  she 1669
+emma:  that 1599
+emma:  had 1567
+emma:  it 1543
+sense and sensibility:  to 4009
+sense and sensibility:  the 3845
+sense and sensibility:  of 3533
+sense and sensibility:  and 3162
+sense and sensibility:  her 2135
+sense and sensibility:  a 1991
+sense and sensibility:  in 1830
+sense and sensibility:  was 1772
+sense and sensibility:  I 1672
+sense and sensibility:  she 1254
+sense and sensibility:  be 1231
+sense and sensibility:  that 1186
+sense and sensibility:  for 1169
+sense and sensibility:  not 1163
+sense and sensibility:  as 1159
+northanger abbey:  the 2901
+northanger abbey:  of 2325
+northanger abbey:  to 2166
+northanger abbey:  and 2038
+northanger abbey:  a 1465
+northanger abbey:  her 1293
+northanger abbey:  in 1196
+northanger abbey:  I 1076
+northanger abbey:  was 1075
+northanger abbey:  she 915
+northanger abbey:  not 896
+northanger abbey:  be 767
+northanger abbey:  had 688
+northanger abbey:  that 684
+northanger abbey:  it 681
+lady susan:  to 837
+lady susan:  I 765
+lady susan:  of 663
+lady susan:  and 597
+lady susan:  the 580
+lady susan:  her 382
+lady susan:  in 326
+lady susan:  a 306
+lady susan:  that 298
+lady susan:  my 291
+lady susan:  is 265
+lady susan:  be 250
+lady susan:  not 244
+lady susan:  have 237
+lady susan:  for 225
+mansfield park:  the 5802
+mansfield park:  to 5278
+mansfield park:  and 5132
+mansfield park:  of 4705
+mansfield park:  a 2986
+mansfield park:  was 2572
+mansfield park:  her 2518
+mansfield park:  in 2390
+mansfield park:  I 2053
+mansfield park:  be 1822
+mansfield park:  not 1711
+mansfield park:  she 1691
+mansfield park:  as 1630
+mansfield park:  had 1585
+mansfield park:  that 1491
+wuthering heights by Bronte:  the 4273
+wuthering heights by Bronte:  and 4189
+wuthering heights by Bronte:  to 3436
+wuthering heights by Bronte:  I 3215
+wuthering heights by Bronte:  a 2241
+wuthering heights by Bronte:  of 2207
+wuthering heights by Bronte:  he 1516
+wuthering heights by Bronte:  his 1353
+wuthering heights by Bronte:  in 1337
+wuthering heights by Bronte:  her 1265
+wuthering heights by Bronte:  you 1217
+wuthering heights by Bronte:  was 1074
+wuthering heights by Bronte:  she 1063
+wuthering heights by Bronte:  that 1045
+wuthering heights by Bronte:  my 1023
