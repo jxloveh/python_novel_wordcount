@@ -1,9 +1,0 @@
-Based on the top word lists from 6 novels by Jane Austen and 1 by Emily Bronte, now I can tell that those words were not
-from Louisa's personal preference but most frequently used words in English language in general.
-
-As a beginner to Python, now I see why there is a strategy of excluding "stopwords" using methods like nltk package. I might
-start another task now only regarding words after removing stop words including the words that I just found most frequently
-used such as AND, THE, TO, A, and OF. Then there may be more interesting findings.
-
-However, personally, I found encountering those "stopwords" repeatedly on top of the lists I made pretty fun. We just never
-notice we use those words so often in our writings and conversations!
